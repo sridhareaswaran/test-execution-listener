@@ -25,10 +25,7 @@ package com.sri.soapui.listener.dataExtract;
         import java.text.SimpleDateFormat;
         import java.util.Date;
 
-/*public class Test extends WsdlRunTestCaseTestStep{
 
-
-}*/
 
 public class ReportListener extends RestTestRequestStep,WsdlRunTestCaseTestStep {}
 
