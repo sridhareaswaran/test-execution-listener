@@ -26,7 +26,6 @@ package com.sri.soapui.listener.dataExtract;
         import java.util.Date;
 
 
-
 public class ReportListener extends RestTestRequestStep,WsdlRunTestCaseTestStep {}
 
   public void afterStep(TestCaseRunner testRunner, TestCaseRunContext runContext, TestStepResult result){
