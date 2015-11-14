@@ -3,6 +3,7 @@ SoapUI Listener Plugin that performs job (could be any job of your preference) o
 
 #### To Generate Plugin:
 1. Clone this repo
-2. ```maven
+2. Run the following maven command
+```maven
 mvn clean build
 ```
